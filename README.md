@@ -1,4 +1,4 @@
-# Data-Analysis-of-IMBD-Movies-Dataset
+# Data Analysis of IMBD Movies Dataset
 
 author - Nikolay Yurashku
 
